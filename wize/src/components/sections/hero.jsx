@@ -15,7 +15,7 @@ const Hero = () => {
                     </div>
                     <div className="col-lg-8">
                         <div className="hero-content wow fadeInUp delay-0-2s">
-                            <h1>I am Python Developer, Web Designer, and Machine Learning Enthusiast living in internet.</h1>
+                            <h1>I am a Python Developer, Web Designer, and a Machine Learning Enthusiast living in internet.</h1>
                             <h2>Hi, I'm Gaurav Singh Bisht I'm an aspiring Machine Learning Developer with 2+ years of experience focusing on AI & ML and Web Dev</h2>
                             <div className="hero-btns">
                                 <a href="/resume.pdf" download className="theme-btn">Download CV <i><RiDownloadLine size={16}/></i></a>
