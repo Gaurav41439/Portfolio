@@ -28,4 +28,6 @@ const Hero = () => {
     )
 }
 
+// comment
+
 export default Hero
